@@ -1,0 +1,24 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "title": "Mason MountExample Article",
+      "content": "Chelsea Football Club."
+    },
+    {
+      "id": 2,
+      "title": "Bruno Fernandez",
+      "content": "Manchester Football Club."
+    },
+    {
+      "title": "Kevin DeBruyne",
+      "content": "Manchester City Football Club",
+      "id": 3
+    },
+    {
+      "title": "Ousmane Dembele",
+      "content": "Barcelona Football Club",
+      "id": 4
+    }
+  ]
+}
